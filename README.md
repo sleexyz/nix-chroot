@@ -1,0 +1,2 @@
+# nix-chroot
+escape hatch
